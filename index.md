@@ -17,6 +17,7 @@
 
 ---
 [Dyno's Adventure DE1_SoC Side-Scrolling Game](/dynos_adventure)
+
 <img src="images/dynos_adventure_thumbnail.jpg?raw=true"/>
 
 ---
