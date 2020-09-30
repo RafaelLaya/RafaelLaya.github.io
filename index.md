@@ -44,6 +44,7 @@
 - [Introduction to Embedded Systems](https://github.com/RafaelLaya/Introduction_To_Embedded_Systems)
 - [Java Algorithms & Data Structures](https://github.com/RafaelLaya/Java_Algos_DS)
 - [Hardware-Software Interface](https://github.com/RafaelLaya/Hardware_Software_Interface)
+- [Writing Samples](https://github.com/RafaelLaya/Writing)
 
 ---
 
