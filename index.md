@@ -18,7 +18,7 @@
 ---
 [Dyno's Adventure DE1_SoC Side-Scrolling Game](/dynos_adventure)
 
-<img src="images/dynos_adventure_thumbnail.jpg?raw=true"/>
+<img src="images/dynos_adventure_thumbnail.jpg?raw=true"/>(/dynos_adventure)
 
 ---
 [PARS Walking and Dancing Robot](/pars)
